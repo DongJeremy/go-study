@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/davidddw/go-study/golearn/02_basic/20_import_demo/calc"
+	"github.com/DongJeremy/go-study/golearn/02_basic/20_import_demo/calc"
 )
 
 func main() {

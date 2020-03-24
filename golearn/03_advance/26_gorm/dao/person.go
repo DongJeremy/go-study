@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/davidddw/go-study/golearn/03_advance/26_gorm/table"
+	"github.com/DongJeremy/go-study/golearn/03_advance/26_gorm/table"
 	"github.com/jinzhu/gorm"
 
 	_ "github.com/go-sql-driver/mysql"

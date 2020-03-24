@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/davidddw/go-study/golearn/03_advance/27_showapi/showSdk/httplib"
+	"github.com/DongJeremy/go-study/golearn/03_advance/27_showapi/showSdk/httplib"
 )
 
 type NormalReq struct {

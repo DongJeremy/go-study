@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/davidddw/go-study/golearn/03_advance/27_showapi/showSdk/normalRequest"
+	"github.com/DongJeremy/go-study/golearn/03_advance/27_showapi/showSdk/normalRequest"
 )
 
 // Result result value
