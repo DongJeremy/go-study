@@ -21,7 +21,9 @@ require (
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/jinzhu/gorm v1.9.12
 	github.com/mash/go-accesslog v1.1.0
+	github.com/mattn/go-gtk v0.0.0-20191030024613-af2e013261f5
 	github.com/mattn/go-oci8 v0.0.4
+	github.com/mattn/go-pointer v0.0.0-20190911064623-a0a44394634f // indirect
 	github.com/mattn/go-runewidth v0.0.9
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
