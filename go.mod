@@ -20,6 +20,8 @@ require (
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/jinzhu/gorm v1.9.12
+	github.com/labstack/echo v3.3.10+incompatible // indirect
+	github.com/labstack/gommon v0.3.0 // indirect
 	github.com/mash/go-accesslog v1.1.0
 	github.com/mattn/go-gtk v0.0.0-20191030024613-af2e013261f5
 	github.com/mattn/go-oci8 v0.0.4
